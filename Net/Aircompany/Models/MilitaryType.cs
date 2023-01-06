@@ -4,6 +4,7 @@
     {
         FIGHTER,
         BOMBER,
-        TRANSPORT
+        TRANSPORT,
+        SCOUT
     }
 }
