@@ -22,7 +22,7 @@ namespace Aircompany.Planes
             return _model;
         }
 
-        public int GetMaxSPeed()
+        public int GetMaxSpeed()
         {
             return _maxSpeed;
         }
